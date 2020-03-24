@@ -1,0 +1,7 @@
+<resources>
+    <!--General-->
+    <string name="app_name">Dagger</string>
+
+    <!--MainActivity-->
+    <string name="loading">Please wait...</string>
+</resources>
